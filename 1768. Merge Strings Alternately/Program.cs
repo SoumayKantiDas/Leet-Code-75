@@ -8,7 +8,6 @@ internal class Program
         string word1 = Console.ReadLine();
         Console.WriteLine("Please Insert the Second Word");
         string word2 = Console.ReadLine(); 
-
         Solution solution = new Solution();
         string merged = solution.MergeAlternately(word1, word2);
         Console.WriteLine("Merged result: " + merged);
