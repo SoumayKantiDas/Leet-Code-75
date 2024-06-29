@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{14845A98-C1FE-4122-B2BA-98260FA9BB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{14845A98-C1FE-4122-B2BA-98260FA9BB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatest Common Divisor of Strings", "Greatest Common Divisor of Strings\Greatest Common Divisor of Strings.csproj", "{8309E9DF-94CD-4493-B9CC-8FAB93E8EF66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greatest Common Divisor of Strings", "Greatest Common Divisor of Strings\Greatest Common Divisor of Strings.csproj", "{8309E9DF-94CD-4493-B9CC-8FAB93E8EF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids With the Greatest Number of Candies", "Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies.csproj", "{8510985C-9167-4EF5-A902-9E7BDE9AA411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8309E9DF-94CD-4493-B9CC-8FAB93E8EF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8309E9DF-94CD-4493-B9CC-8FAB93E8EF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8309E9DF-94CD-4493-B9CC-8FAB93E8EF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8510985C-9167-4EF5-A902-9E7BDE9AA411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8510985C-9167-4EF5-A902-9E7BDE9AA411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8510985C-9167-4EF5-A902-9E7BDE9AA411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8510985C-9167-4EF5-A902-9E7BDE9AA411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
