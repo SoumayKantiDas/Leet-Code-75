@@ -5,7 +5,7 @@ public class Solution
 {
     public IList<bool> KidsWithCandies(int[] candies, int extraCandies)
     {
-        // Step 1: Find the maximum number of candies any kid currently has
+        
         int maxCandies = candies[0];
         int lengthOfCandies = candies.Length;
 
@@ -17,7 +17,7 @@ public class Solution
             }
         }
 
-        // Step 2: Create the result list and check each kid
+        
         IList<bool> result = new List<bool>();
         for (int i = 0; i < lengthOfCandies; i++)
         {
