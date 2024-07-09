@@ -9,6 +9,9 @@
         Console.WriteLine(solution.CanPlaceFlowers(flowerbed1, n1));  // Output: true
 
         int[] flowerbed2 = { 1, 0, 0, 0, 1 };
+
+        int length = flowerbed1.Length;
+        Console.WriteLine(length);
         int n2 = 2;
         Console.WriteLine(solution.CanPlaceFlowers(flowerbed2, n2));  // Output: false
     }
@@ -28,18 +31,18 @@
                     bool emptyNext = false;
 
                   
-                    if (flowerbed[i - 1] == 0)
+                    if (i == 0 || flowerbed[i - 1] == 0)
                     {
                         emptyPrev = true;
                     }
 
-                    
-                    if ( flowerbed[i + 1] == 0)
+                   
+                    if (i == length-1  || flowerbed[i + 1] == 0)
                     {
                         emptyNext = true;
                     }
 
-                    
+                
                     if (emptyPrev && emptyNext)
                     {
                         flowerbed[i] = 1;
