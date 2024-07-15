@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greatest Common Divisor of 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kids With the Greatest Number of Candies", "Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies.csproj", "{8510985C-9167-4EF5-A902-9E7BDE9AA411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "605. Can Place Flowers", "605. Can Place Flowers\605. Can Place Flowers.csproj", "{C0F1677E-8B7F-4A5E-923E-DDEDB3A374B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "605. Can Place Flowers", "605. Can Place Flowers\605. Can Place Flowers.csproj", "{C0F1677E-8B7F-4A5E-923E-DDEDB3A374B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "345. Reverse Vowels of a String", "345. Reverse Vowels of a String\345. Reverse Vowels of a String.csproj", "{062EE6A6-F19F-4D2F-8ADE-3655B5497605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C0F1677E-8B7F-4A5E-923E-DDEDB3A374B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F1677E-8B7F-4A5E-923E-DDEDB3A374B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F1677E-8B7F-4A5E-923E-DDEDB3A374B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062EE6A6-F19F-4D2F-8ADE-3655B5497605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062EE6A6-F19F-4D2F-8ADE-3655B5497605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062EE6A6-F19F-4D2F-8ADE-3655B5497605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062EE6A6-F19F-4D2F-8ADE-3655B5497605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
