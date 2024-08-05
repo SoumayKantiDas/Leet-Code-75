@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "345. Reverse Vowels of a St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.csproj", "{65C8CAB2-3AC6-430E-8AD1-9B7B12C44A27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSequence Matching", "SubSequence Matching\SubSequence Matching.csproj", "{464B809E-DDC3-4DA9-8637-767059B9D09C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubSequence Matching", "SubSequence Matching\SubSequence Matching.csproj", "{464B809E-DDC3-4DA9-8637-767059B9D09C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumAverageSubArray", "MaximumAverageSubArray\MaximumAverageSubArray.csproj", "{00053620-2837-41EF-A327-6BF34AC16E71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2215. Find the Difference of Two Arrays", "2215. Find the Difference of Two Arrays\2215. Find the Difference of Two Arrays.csproj", "{BA0CEA3B-0A60-4274-AA85-A169B523B5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1207. Unique Number of Occurrences", "1207. Unique Number of Occurrences\1207. Unique Number of Occurrences.csproj", "{F13B4CC7-50A8-4374-9B48-1134027C554A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{464B809E-DDC3-4DA9-8637-767059B9D09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{464B809E-DDC3-4DA9-8637-767059B9D09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{464B809E-DDC3-4DA9-8637-767059B9D09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00053620-2837-41EF-A327-6BF34AC16E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00053620-2837-41EF-A327-6BF34AC16E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00053620-2837-41EF-A327-6BF34AC16E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00053620-2837-41EF-A327-6BF34AC16E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0CEA3B-0A60-4274-AA85-A169B523B5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0CEA3B-0A60-4274-AA85-A169B523B5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0CEA3B-0A60-4274-AA85-A169B523B5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0CEA3B-0A60-4274-AA85-A169B523B5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13B4CC7-50A8-4374-9B48-1134027C554A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13B4CC7-50A8-4374-9B48-1134027C554A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13B4CC7-50A8-4374-9B48-1134027C554A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13B4CC7-50A8-4374-9B48-1134027C554A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
